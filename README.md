@@ -26,4 +26,4 @@ Application logic is in IBM Node-Red. The message queue is subscribed to.  When 
 
 A webpage is created in Node-Read that allows a user to view the most recent Voltage readings.
 
-![Analog Discovery 2]https://media.digikey.com/Photos/Digilent,%20Inc/410-321.jpg
+![Analog Discovery 2](https://media.digikey.com/Photos/Digilent,%20Inc/410-321.jpg)
