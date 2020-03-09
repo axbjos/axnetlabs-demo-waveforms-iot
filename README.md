@@ -24,4 +24,6 @@ Python is used to create a Waveforms SDK API client that measures the voltages o
 
 Application logic is in IBM Node-Red. The message queue is subscribed to.  When readings appears on the MQTT queue, they are read and stored in a MongoDB collection.
 
+https://media.digikey.com/Photos/Digilent,%20Inc/410-321.jpg
+
 A webpage is created in Node-Read that allows a user to view the most recent Voltage readings.
