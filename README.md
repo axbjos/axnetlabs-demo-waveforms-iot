@@ -3,7 +3,7 @@ Sample Industrial IOT Project Using the Digilent Waveforms Analog Discovery 2 Da
 
 ## Hardware
 
-Linux/Windows/Mac/RaspberryPi Computer
+Linux-Windows-Mac-RaspberryPi Computer
 RaspberryPi IoT Endpoint (Optional)
 Arduino Uno (or other Arduino - assumes you know how to use)
 
