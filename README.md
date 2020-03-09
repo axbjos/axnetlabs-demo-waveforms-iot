@@ -1,13 +1,13 @@
 # waveformsIOT
 Sample Industrial IOT Project Using the Digilent Waveforms Analog Discovery 2 Data Acquisition Pod
 
-##Hardware
+## Hardware
 
 Linux/Windows/Mac/RaspberryPi Computer
 RaspberryPi IoT Endpoint (Optional)
 Arduino Uno (or other Arduino - assumes you know how to use)
 
-##Software
+## Software
 Python3 Programming Language
 PIP3 Python Package Manager
 NodeJS JavaScript Runtime
